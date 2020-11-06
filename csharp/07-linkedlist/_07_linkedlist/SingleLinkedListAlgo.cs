@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using algo06_linked_list;
 
 namespace algo07_linkedlist

@@ -1,4 +1,4 @@
-package sort;
+package sorts;
 
 /**
  * @author wangjunwei87

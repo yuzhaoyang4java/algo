@@ -1,4 +1,4 @@
-package com.study.sort;
+package sorts;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author ldb
  * @date 2019-10-08 16:09
  */
-public class Sorts {
+public class Sorts1 {
 
     /**
      * 冒泡排序
